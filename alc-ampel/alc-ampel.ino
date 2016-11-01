@@ -1,4 +1,4 @@
-int status = 1;
+unsigned int status = 1;
 
 const int F1rot = 2;
 const int F1gruen = 3;
